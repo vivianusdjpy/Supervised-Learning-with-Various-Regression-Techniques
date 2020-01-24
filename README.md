@@ -1,1 +1,1 @@
-# Supervised-Learning-with-Various-Regression-Techniques
+# Supervised-Learning-using-Various-Regression-Techniques
